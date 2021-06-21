@@ -64,7 +64,6 @@ ClassicEditor.builtinPlugins = [
 	TextTransformation,
 	Alignment,
 	MathType,
-	ChemType
 ];
 
 // Editor configuration.
